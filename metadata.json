@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Cyclone Identification \u0026 Prediction",
+  "description": "Cinematic documentary and meteorological analytics platform for Smart India Hackathon 2026 Problem Statement 26070: AI-Driven Tropical Cyclone Identification, Classification \u0026 Prediction by Team O(1).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
